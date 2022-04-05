@@ -1,0 +1,29 @@
+    |Relational databases|                         |NoSQL databases|                                  |in-memory databases|
+    ----------------------          -------------------- ----------------------------                 ---------------------
+    |       MySQL        |          |  Key–value cache  | |      Apache Ignite      |                 |   Aerospike DBS   |
+    ----------------------          --------------------- ---------------------------                 ---------------------
+    |       MaxDB        |          |  Key–value store  | |        ArangoDB         |                 |    ALTIBASE HDB   |
+    ----------------------          --------------------- ---------------------------                 ---------------------
+    |       SQLite       |          |  Key–value store  | |     Oracle NoSQL DB     |                 |    ALTIBASE XDB   |
+    ----------------------          |     consistent    | |        Voldemort        |                 ---------------------
+    |     PostgreSQL     |          --------------------- ---------------------------
+    ----------------------          |  Key–value store  | |       FoundationDB      |
+    |      Firebird      |          |      ordered      | |       InfinityDB        |
+    ----------------------          --------------------- ---------------------------
+    |    Apache Derby    |          |    Tuple store    | |       Apache River      |
+    ----------------------          --------------------- ---------------------------
+                                    |    Triplestore    | |      AllegroGraph       |
+                                    --------------------- ---------------------------
+                                    |  Object database  | |     Objectivity/DB      |
+                                    --------------------- ---------------------------
+                                    |  Document store   | |     Azure Cosmos DB     |
+                                    --------------------- ---------------------------
+                                    | Wide Column Store | |     Amazon DynamoDB     |
+                                    --------------------- ---------------------------
+                                    |Native multi-model | |        OrientDB         |
+                                    |      database     | |        MarkLogic        |
+                                    --------------------- ---------------------------
+                                    |  Graph database   | |          Neo4J          |
+                                    --------------------- ---------------------------
+                                    |Multivalue database| |Extensible Storage Engine|
+                                    --------------------- ---------------------------
